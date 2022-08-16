@@ -4,7 +4,6 @@ I'm Software Development Manager
 
 - 🔭 I’m currently working on Unreal Technology
 - 🌱 I’m currently learning Marketing
-- 🤔 I’m looking for help with Digital Marketing
 - 💬 Ask me about anything [here](mailto:jjuri@socialmining.cl)
 
 
@@ -34,7 +33,11 @@ I'm Software Development Manager
 - 🎓 Bachelor of Engineering in Computer Science    
 - 📱 Web and Mobile Application Development Diploma    
 
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuri-socialmining&layout=compact)](https://github.com/jjuri-socialmining/github-readme-stats)
+
+
+
 
 
 <!--
