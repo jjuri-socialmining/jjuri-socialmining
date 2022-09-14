@@ -3,7 +3,7 @@ Hi there. I'm Jorge Juri
 I'm Software Development Manager
 
 - 🔭 I’m currently working on Unreal Technology
-- 🌱 I’m currently learning Marketing
+- 🌱 I’m currently learning Marketing and British Columbia's legal system
 - 💬 Ask me about anything [here](mailto:jjuri@socialmining.cl)
 
 
