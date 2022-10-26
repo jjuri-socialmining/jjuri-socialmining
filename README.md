@@ -5,7 +5,7 @@ I'm Software Development Manager
 - 🔭 I’m currently working on Unreal Technology
 - 🌱 I’m currently learning Marketing
 
-💬 Ask me about: Software Architecture, Cloud computing (Azure), C#, ASP.NET, Mobile, Databases, DevOps, Agile, People, Organizations.
+💬 Ask me about: Software Architecture, Mobile, Databases, DevOps, Agile, People, and Organizations.
 
 📫 How to reach me:
 
