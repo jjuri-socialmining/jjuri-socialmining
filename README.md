@@ -1,10 +1,17 @@
-Hi there. I'm Jorge Juri
+Hi there. I'm Jorge 
 
 I'm Software Development Manager
 
 - 🔭 I’m currently working on Unreal Technology
-- 🌱 I’m currently learning Marketing and British Columbia's legal system
-- 💬 Ask me about anything [here](mailto:jjuri@socialmining.cl)
+- 🌱 I’m currently learning Marketing
+
+💬 Ask me about: Software Architecture, Cloud computing (Azure), C#, ASP.NET, Mobile, Databases, DevOps, Agile, People, Organizations.
+
+📫 How to reach me:
+
+-   Email: `jjuri` at `socialmining.cl`
+-   LinkedIn: [jjuri](https://www.linkedin.com/in/jjuri-manager-vancouver/) 
+
 
 
 ## Skills
