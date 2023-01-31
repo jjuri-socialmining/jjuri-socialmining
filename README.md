@@ -1,9 +1,10 @@
 Hi there. I'm Jorge 
 
-I'm Software Development Manager
 
-- 🔭 I’m currently working on Unreal Technology
-- 🌱 I’m currently learning Marketing
+
+- 🔭 I’m currently working on Unity and ArcGIS
+- 👯 I’m looking for deep meaningful connections.
+
 
 💬 Ask me about: Software Architecture, Mobile, Databases, DevOps, Agile, People, and Organizations.
 
