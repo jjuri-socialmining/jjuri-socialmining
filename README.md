@@ -34,7 +34,7 @@ Hi there. I'm Jorge
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuri-socialmining&show_icons=true&theme=radical)
 
 ## Contact
-- ```📧 jjuri@socialmining.cl```
+- ```📧 jjuri at socialmining.cl```
 
 ## Studies
 - 🎓 Master’s Degree in Industrial Engineering, Business Analysis    
